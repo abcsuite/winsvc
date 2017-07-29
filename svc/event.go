@@ -10,7 +10,7 @@ import (
 	"errors"
 	"syscall"
 
-	"github.com/btcsuite/winsvc/winapi"
+	"github.com/abcsuite/winsvc/winapi"
 )
 
 // event represents auto-reset, initially non-signaled windows event.
